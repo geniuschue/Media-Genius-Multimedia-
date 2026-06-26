@@ -1,0 +1,6 @@
+{
+  "name": "Media Genium",
+  "description": "High-converting multimedia agency website featuring a dual-theme design system, cinematic showcases, and an interactive lead capture form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
